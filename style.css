@@ -1,0 +1,55 @@
+body {
+    background-color: grey;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+
+}
+
+.profile-image {
+    width: 200px;
+    height: 200px;
+    float: left;
+
+}
+
+#profile-name {
+    font-size: 18px;
+    color: palevioletred;
+}
+
+.centered {
+    text-align: center;
+}
+
+.img-div {
+    background-color: lightseagreen;
+
+}
+
+.text-div {
+}
+    background-color: lightsalmon;
+    float: left;
+    width: 33%;
+
+.list-div {
+    background-color: peru;
+    float: left;
+    width: 40%;
+}
+
+#dangerBtn {
+    display: block;
+}
+
+#cardDiv {
+    display: inline-block;
+}
+
+#cardName {
+    background-color: black; 
+    color: yellow;
+}
